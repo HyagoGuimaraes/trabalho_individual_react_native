@@ -37,10 +37,15 @@ src/
 # 📌 Funcionalidades implementadas
 
 ✔️ Tela de Login inspirada no LinkedIn
+
 ✔️ Tela Home com lista de postagens (Feed)
+
 ✔️ Ícones no estilo LinkedIn (curtir, comentar, compartilhar, enviar)
+
 ✔️ Importação de imagens locais via assets
+
 ✔️ Lista de posts usando FlatList
+
 ✔️ Estilo visual baseado na identidade do LinkedIn
 
 # 📸 Layouts de referência (originais)
